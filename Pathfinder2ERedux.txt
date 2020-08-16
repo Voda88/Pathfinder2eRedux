@@ -1,0 +1,57 @@
+title (
+Pathfinder 2E Redux
+)
+head (
+# Pathfinder 2E Redux ((Title))
+This is a homebrew version of the core Pathfinder 2e ruleset, modified to create an experience with three design goals in mind: enabling more character fantasies, supporting narrative tension through gameplay adjustments and encouraging experimentation in character development. 
+-
+)
+
+Pathfinder 2E Redux incorporates a number official variants, homebrew by other authors and homebrew by me. 
+
+# Description of Design Goals ((+))
+
+There are three major goals for this version. Listed below are each and the sources for materials to address these goals.
+
+## Enabling more class fantasies ((+))
+
+The core pathfinder 2e core ruleset favours certain types of approaches to others, especially in combat. The following changes attempt to create more viable combat options for all classes.
+
+### Proficiency without level (official variant) ((++))
+
+Often, characters find that they are pigeonholed to more narrow roles at higher levels due to proficiencies not keeping up with skill DC without investment. This variant aims to encourage characters to approach encounters using creative strategies outside their specific expertise, as long as they have at least **trained** proficiency.
+
+### Minor skill feats (homebrew by me) ((++))
+
+Some skill feats are more niche than others. To encourage players to experiment with different options, some skill feats have the tag **minor** added to them. Minor skill feats are granted in addition to regular skill feats as rewards for solving encounters and leveling up. A character can retrain one minor skill feat per full rest.
+
+### Cantrip balance (homebrew by AJ Neuro) ((++))
+
+Electric arc outperforms all other cantrips damage-wise by a large margin. To make other cantrips more attractive options, the cantrip rebalance designed by AJ Neuro is integrated into Pathfinder 2E redux.
+
+### Incapacitate tag changes (homebrew by me) ((++))
+
+Monsters are divided to three threat levels: mooks, at-levels and bosses. This three-tier system affects spell DC in a manner similar to incapacitate, protecting characters and monsters alike from debilitating effects from lower level adversaries, while making them more vulnerable to effects from higher-level adversaries.
+
+### one-action abilities (homebrew by me) ((++))
+
+Many classes are granted more 1-action options to diversify combat.
+
+|
+### Control spell balance (homebrew by me) ((++))
+
+Single target control spells are too situational to be used, unless they are powerful enough to shut down encounters. To avoid this save-or-die dichotomy, all single target control spells are transformed into multi-target or AoE spells, which follow these guidelines: control spells costing **1 action** cast at half-monster level should moderately debilitate numerous mooks regardless of weaknesses. **2 action** control spells should moderately debilitate at least one at-level threats, while causing minor debilitation to many. Minor effect if not targetting weakness. **2 action** control spells should have minor but reliable effect on bosses, when targetting weaknesses.
+
+### Stamina and resolve points (official variant + homebrew by me) ((++))
+
+Each combat encounter in pathfinder 2e is designed to be a major threat to the party. This mandates healing up for every fight, which usually takes up hours of in-game time. This can break the narrative pacing of the campaign. To address this problem, the stamina and resolve point variant is used for both monsters and players. Monsters enter a **bloodied** condition when they lose all their stamina points, a mechanic borrowed from 4e. The **bloodied** condition can cause a variety of buffs and debuffs depending on the monster. Characters must choose carefully whether to burst down monsters to their bloodied state quickly or debilitate them and avoid triggering their bloodied condition until later in the fight.
+
+### Automatic bonus progression (official variant + homebrew by me) ((++))
+
+In the core ruleset of pathfinder 2E, magic items, property runes especially, often act as math fixers instead of offering unique and flavourful advantages. Using the automatic bonus progression variant rules game masters can focus on granting 'sidegrade' type magic items as rewards without players feeling that they fall behind monsters in combat strength.
+
+### Math fixes (Homebrew by others and me) ((++))
+
+To make some of the weaker character fantasies more attractive, math fixes to class feats and traits are made with the goal of having the combat efficiency of each character archetype within 30% of others. This is accomplished using a 2-step approach. First identify the design goals of Paizo and the wishes of the player-base and where some of the current character archetypes fall short. Then use combat simulations to make math fixes to these issues.
+
+=
