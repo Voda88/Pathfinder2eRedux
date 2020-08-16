@@ -39,7 +39,7 @@ Monsters are divided to three threat levels: mooks, at-levels and bosses. This t
 |
 ### Control spell balance (homebrew by me) ((++))
 
-Single target control spells are too situational to be used, unless they are powerful enough to shut down encounters. To avoid this save-or-die dichotomy, all single target control spells are transformed into multi-target or AoE spells, which follow these guidelines: control spells costing **1 action** cast at half-monster level should moderately debilitate numerous mooks regardless of weaknesses. **2 action** control spells should moderately debilitate a couple of at-level threats, when targetting weaknesses. Minor effect if not targetting weakness. **2 action** control spells should have minor but reliable effect on bosses, when targetting weaknesses.
+Single target control spells are too situational to be used, unless they are powerful enough to shut down encounters. To avoid this save-or-die dichotomy, all single target control spells are transformed into multi-target or AoE spells, which follow these guidelines: control spells costing **1 action** cast at half-monster level should moderately debilitate numerous mooks regardless of weaknesses. **2 action** control spells should moderately debilitate at least one at-level threats, while causing minor debilitation to many. Minor effect if not targetting weakness. **2 action** control spells should have minor but reliable effect on bosses, when targetting weaknesses.
 
 ### Stamina and resolve points (official variant + homebrew by me) ((++))
 
