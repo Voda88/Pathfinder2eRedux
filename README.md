@@ -15,6 +15,6 @@ Use the following homebrew content:
   - Rebalance spells
   - Rebalance incapacitate tag
   - Rebalance classes based on simulator data
-  - Rebalance feats, separate into major and minor feats. Minor feats are granted as encounter rewards, if necessary requirements are satisfied. Major feats are chosen as normal.
+  - Rebalance skill feats, separate into major and minor skill feats. Minor skill feats are granted as encounter rewards, if necessary requirements are satisfied. Major skill feats are chosen as normal.
   - Rebalance consumables
   
