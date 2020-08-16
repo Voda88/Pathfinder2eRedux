@@ -1,0 +1,140 @@
+
+head (
+# variant Cantrips ((Title))
+the cantrips in the Core Rulebook are poorly balanced, with Electric Arc doing 2-to-3 times as much average damage compared to other cantrips. The following variant cantrips have increased damage, and more reliable secondary effects.
+-
+)
+# Cantrips ((+Cantrips))
+Variant cantrips are stronger than the originals, but Electric Arc is still top DPS. Variant cantrips make up for this through more reliable secondary effects. Ordered alphabetically by their originals.
+
+item (
+# Dissolve
+## Cantrip 1
+-
+Replaces Acid Splash
+;acid,attack,cantrip, evocation
+**Traditions** arcane, primal
+**Cast** :aa: somatic, verbal
+**Range** 30 feet; *Targets* 1 creature or object
+-
+Make a spell attack. If you hit, you deal acid damage equal to your spellcasting ability modifier, plus 1 splash acid damage, plus 1 persistent damage. On a critical success, double the damage (but not the splash or persistent damage). As usual, splash damage is dealt, even on a failure, to the target and everyone within 5ft of the target.
+-
+**Heightened (+1)** The splash damage increases by 1, and the persistent damage increases by 1.
+)
+
+item (
+# Weaken
+## Cantrip 1
+-
+**Replaces** Chill Touch
+;cantrip,necromancy,negative
+**Traditions** arcane, divine, occult
+**Cast** :aa: somatic, verbal
+**Range** touch; *Targets* 1 living or undead creature
+**Saving Throw** Fortitude
+-
+**Living Creature** The spell deals negative damage equal to 1d6 + your spellcasting ability modifier. The target attempts a basic Fortitude save and is enfeebled 1 for 1 round on a failure or critical failure.
+**Undead Creature** The target is enfeebled 1 and flat-footed for 1 round on a failed Fortitude save. On a critical failure, the conditions last for 1 minute instead.
+-
+**Heightened (+1)** The damage increases by 1d6
+)
+
+|
+
+item (
+# Stagger
+## Cantrip 1
+-
+**Replaces** Daze
+;cantrip,enchantment,mental,nonlethal
+**Traditions** arcane, divine, occult
+**Cast** :aa: somatic, verbal
+**Range** 60 feet; *Targets* 1 creature
+-
+You deal mental damage equal to 1d4 plus your spellcasting ability modifier. The target attempts a basic Will save, but is also stunned 1 on a failure or critical failure.
+-
+**Heightened (+1)** The damage increases by 1d4
+)
+
+item (
+# Cleanse
+## Cantrip 1
+-
+**Replaces** Disrupt Undead
+;cantrip,necromancy, positive
+**Traditions** divine, primal
+**Cast** :aa: somatic, verbal
+**Range** 30 feet; *Targets* 1 undead creature
+**Saving throw** Fortitude
+-
+You deal positive damage equal to 1d8 plus your spellcasting ability modifier. The target must attempt a basic Fortitude save, but is also enfeebled 1 for 1 round on a failure or critical failure.
+-
+**Heightened (+1)** The damage increases by 1d8
+)
+
+item (
+# Punish
+## Cantrip 1
+-
+**Replaces** Divine Lance
+;attack,cantrip, evocation
+**Traditions** divine
+**Cast** :aa: somatic, verbal
+**Range** 30 feet; *Targets* 1 creature
+-
+You unleash a beam of aligned astral energy. Choose an alignment your character has (chaotic, evil, good, lawful, or neutral). Make a spell attack. On a hit, you deal 1d6 damage of the chosen type, and force damage equal to your spellcasting ability modifier. On a critical success, the target takes double damage. Neutral damage type affects creatures with the chaotic good, chaotic evil, lawful good, or lawful evil alignment traits. The spell gains the traits of the alignment you choose.
+-
+**Heightened (+1)** The damage increases by 1d6
+)
+
+=
+
+item (
+# Blaze
+## Cantrip 1
+-
+**Replaces** Produce Flame
+;attack,cantrip, evocation,fire
+**Traditions** arcane, primal
+**Cast** :aa: somatic, verbal
+**Range** 30 feet; *Targets* 1 creature
+-
+Make a spell attack roll, which can be melee (reach) instead of ranged. On a success, you deal 1d6 fire damage plus your spellcasting ability modifier. On a critical success, the target takes double damage, and 1d4 persistent fire damage.
+-
+**Heightened (+1)** The damage increases by 1d6, and the persistent damage on a critical hit by 1d4.
+)
+
+item (
+# Freeze
+## Cantrip 1
+-
+**Replaces** Ray of Frost
+;attack,cantrip,cold,evocation
+**Traditions** arcane, primal
+**Cast** :aa: somatic, verbal
+**Range** 120 feet; *Targets* 1 creature
+-
+Make a spell attack roll. On a success, you deal cold damage equal to 1d6 plus your spellcasting ability modifier, and the target is Clumsy 1 for 1 round. On a critical success, the target takes double damage.
+-
+**Heightened (+1)** The damage increases by 1d6.
+)
+
+|
+
+item (
+# Psychic thrust
+## Cantrip 1
+-
+**Replaces** Telekinetic Projectile
+;attack,cantrip,cold,evocation
+**Traditions** arcane, occult
+**Cast** :aa: somatic, verbal
+**Range** 60 feet; *Targets* 1 creature
+-
+You create a quick burst of shaped kinetic energy. Choose bludgeoning, piercing, or slashing damage. Make a spell attack roll against the target. If you hit, you deal damage of the chosen type equal to 1d8 plus your spellcasting ability modifier.
+-
+**Heightened (+1)** The damage increases by 1d8.
+)
+
+## Designed by AJ Neuro ((++Designed by))
+You can reach me on Reddit as MidSolo.
