@@ -17,4 +17,3 @@ Use the following homebrew content:
   - Rebalance classes based on simulator data
   - Rebalance skill feats, separate into major and minor skill feats. Minor skill feats are granted as encounter rewards, if necessary requirements are satisfied. Major skill feats are chosen as normal.
   - Rebalance consumables
-  
